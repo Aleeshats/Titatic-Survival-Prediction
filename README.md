@@ -1,1 +1,1 @@
-# Cat-Dog-Classifier
+# Titanic Survival Prediction
